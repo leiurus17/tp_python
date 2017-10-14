@@ -8,3 +8,7 @@ print c
 print d
 print e
 print f
+
+del f
+
+# print f Will not work anymore because f variable is deleted
