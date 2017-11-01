@@ -6,5 +6,6 @@
 <path>/${PROJECT_DIR_NAME}/hello</path>
 <path>/${PROJECT_DIR_NAME}/variables</path>
 <path>/${PROJECT_DIR_NAME}/operators</path>
+<path>/${PROJECT_DIR_NAME}/loops</path>
 </pydev_pathproperty>
 </pydev_project>
