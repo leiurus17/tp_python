@@ -12,3 +12,5 @@ print "Updated String :-", var1[:6] + 'Python'
 print var1
 var3 = var1[:6] + 'Python'
 print var3
+
+print" My name is %s and weight is %d kg!" % ('Zara', 21)
