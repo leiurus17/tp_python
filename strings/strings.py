@@ -26,3 +26,5 @@ the variable assignment will also show up.
 print para_str
 print 'C:\\Windows'
 print r'C:\\Windows'
+
+print u'Hello, world!'
