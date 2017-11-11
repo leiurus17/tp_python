@@ -13,3 +13,8 @@ print list1
 list1[2] = 2001
 print "list1[2] = 2001"
 print list1
+
+print list1
+del list1[2]
+print "del list1[2]"
+print list1
