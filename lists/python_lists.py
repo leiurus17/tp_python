@@ -18,3 +18,11 @@ print list1
 del list1[2]
 print "del list1[2]"
 print list1
+
+print len([1,2,3])
+print [1,2,3] + [4,5,6]
+print ["Hi!"] * 5
+print 3 in [1, 2, 3]
+print 4 in [1, 2, 3]
+
+for x in [1, 2, 3]: print x
