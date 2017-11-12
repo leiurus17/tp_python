@@ -31,3 +31,8 @@ print 3 in (1, 2, 3)
 print 4 in (1, 2, 3)
 
 for x in (1, 2, 3) : print x
+
+L = ('spam', 'Spam', 'SPAM')
+print L[2]
+print L[-2]
+print L[1:]
