@@ -36,3 +36,7 @@ L = ('spam', 'Spam', 'SPAM')
 print L[2]
 print L[-2]
 print L[1:]
+
+print 'abc', -4.2e93, 18+6.6j, 'xyz'
+x, y = 1, 2
+print x,y
