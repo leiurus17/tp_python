@@ -10,3 +10,14 @@ print tup4
 
 print tup1[0]
 print tup2[1:5]
+
+tup1 = (12, 34.56)
+tup2 = ('abc', 'xyz')
+
+# You cannot update tuples
+# tup1[0] = 100
+
+# So let's create a new tuple as follows
+
+tup3 = tup1 + tup2
+print tup3
