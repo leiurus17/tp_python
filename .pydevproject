@@ -8,5 +8,6 @@
 <path>/${PROJECT_DIR_NAME}/operators</path>
 <path>/${PROJECT_DIR_NAME}/loops</path>
 <path>/${PROJECT_DIR_NAME}/lists</path>
+<path>/${PROJECT_DIR_NAME}/tuples</path>
 </pydev_pathproperty>
 </pydev_project>
