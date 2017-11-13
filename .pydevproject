@@ -10,5 +10,6 @@
 <path>/${PROJECT_DIR_NAME}/lists</path>
 <path>/${PROJECT_DIR_NAME}/tuples</path>
 <path>/${PROJECT_DIR_NAME}/dictionary</path>
+<path>/${PROJECT_DIR_NAME}/date_time</path>
 </pydev_pathproperty>
 </pydev_project>
