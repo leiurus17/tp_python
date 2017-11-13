@@ -1,3 +1,8 @@
 dictz = {'Name': 'Zara', 'Age': 7}
 
-print "Value : %s" % dictz.keys()
+print dictz
+
+print "Value : %s" % dictz.setdefault('Age', None)
+print "Value : %s" % dictz.setdefault('Sex', None)
+
+print dictz
