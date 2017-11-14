@@ -12,5 +12,6 @@
 <path>/${PROJECT_DIR_NAME}/dictionary</path>
 <path>/${PROJECT_DIR_NAME}/date_time</path>
 <path>/${PROJECT_DIR_NAME}/functions</path>
+<path>/${PROJECT_DIR_NAME}/module</path>
 </pydev_pathproperty>
 </pydev_project>
