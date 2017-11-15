@@ -13,3 +13,6 @@ class Parent:   # Define parent class
         
     def getAttr(self):
         print "Parent attribute :", Parent.parentAttr
+        
+    def awesomeMethod(self):
+        print "This is awesome method from parent class."

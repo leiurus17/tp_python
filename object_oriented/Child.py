@@ -7,3 +7,6 @@ class Child(Parent): # Define child class
         
     def childMethod(self):
         print "Calling child method"
+        
+    def awesomeMethod(self): #Overriding method
+        print "This is awesome method from child class."
