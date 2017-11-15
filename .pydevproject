@@ -14,5 +14,6 @@
 <path>/${PROJECT_DIR_NAME}/functions</path>
 <path>/${PROJECT_DIR_NAME}/module</path>
 <path>/${PROJECT_DIR_NAME}/files_io</path>
+<path>/${PROJECT_DIR_NAME}/exceptions</path>
 </pydev_pathproperty>
 </pydev_project>
