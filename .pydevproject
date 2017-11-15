@@ -15,5 +15,6 @@
 <path>/${PROJECT_DIR_NAME}/module</path>
 <path>/${PROJECT_DIR_NAME}/files_io</path>
 <path>/${PROJECT_DIR_NAME}/exceptions</path>
+<path>/${PROJECT_DIR_NAME}/object_oriented</path>
 </pydev_pathproperty>
 </pydev_project>
