@@ -18,3 +18,4 @@ print emp1.age
 print emp2.age
 
 del emp1.age
+del emp2.age
