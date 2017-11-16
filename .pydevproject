@@ -16,5 +16,6 @@
 <path>/${PROJECT_DIR_NAME}/files_io</path>
 <path>/${PROJECT_DIR_NAME}/exceptions</path>
 <path>/${PROJECT_DIR_NAME}/object_oriented</path>
+<path>/${PROJECT_DIR_NAME}/regular_expression</path>
 </pydev_pathproperty>
 </pydev_project>
