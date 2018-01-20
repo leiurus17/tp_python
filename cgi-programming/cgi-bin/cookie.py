@@ -1,0 +1,6 @@
+print "Set-Cookie:UserID = XYZ;\r\n"
+print "Set-Cookie:Password = XYZ123;\r\n"
+print "Set-Cookie:Expires = Tuesday, 31-Dec-2018 23:59:59 GMT;\r\n"
+print "Set-Cookie:Domain = www.google.com;\r\n"
+print "Set-Cookie:Path = /perl;\n"
+print "Content-type:text/html\r\n\r\n"
